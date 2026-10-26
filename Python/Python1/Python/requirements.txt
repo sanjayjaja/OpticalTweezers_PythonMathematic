@@ -1,0 +1,11 @@
+argcomplete==3.7.2
+click==8.5.0
+colorama==0.4.6
+filelock==4.1.1
+numpy==2.5.4
+packaging==26.3
+pipx==1.17.14
+platformdirs==4.13.0
+setuptools==84.0.0
+userpath==1.9.2
+wheel==0.47.0

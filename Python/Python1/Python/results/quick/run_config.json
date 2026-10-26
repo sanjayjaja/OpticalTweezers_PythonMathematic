@@ -1,0 +1,26 @@
+{
+  "method": "background-corrected pixel sums; two 1D Gaussian histogram peaks",
+  "bootstrap": 20,
+  "seed": 2026,
+  "block_size": 1,
+  "radius": 3,
+  "bins": 30,
+  "peak_threshold": 550,
+  "background": [
+    110,
+    150,
+    35,
+    105
+  ],
+  "crop_rows": 10,
+  "sensitivity_site": 1,
+  "bootstrap_interval": "95% percentile; conditional on model, detected sites and preprocessing",
+  "n_images": 300,
+  "n_sites": 1,
+  "successful_fits": 1,
+  "review_sites": [
+    1
+  ],
+  "pooled_classified_fraction": 0.53,
+  "pooled_classified_ci95": null
+}

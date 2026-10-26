@@ -1,0 +1,2 @@
+site,row,column,loading_fraction,loading_fraction_ci_low,loading_fraction_ci_high,p_atom,p_atom_ci_low,p_atom_ci_high,threshold,threshold_ci_low,threshold_ci_high,fidelity,fidelity_ci_low,fidelity_ci_high,false_positive,false_negative,separation,pearson_diagnostic,occupancy_lag1,bootstrap_successes,flags,failure_reason
+1,44,50,0.53,nan,nan,0.5230612546158611,nan,nan,2996.0354812991827,nan,nan,0.9994250732348757,nan,nan,0.0002559822854729217,0.0008657473499597171,5.6351512307820375,0.7293464215072365,-0.07457322551662178,20,too_few_bootstraps_for_reporting,
